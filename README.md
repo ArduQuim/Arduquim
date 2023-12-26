@@ -2,9 +2,9 @@
 ### Olá 👋
 
 
-We are working on projects that combine Arduino with Chemistry. The challenge is to use Arduino in Chemistry experiments.
+We are working on project that combine Arduino with Chemistry. The challenge is to use Arduino and sensors in Chemistry experiments.
 
-Estamos trabalhando em projetos que reunem Arduino com Química. O desafio é utilizar o Arduino em experimentos de Química.
+Estamos trabalhando em um projeto que combina Arduino com Química. O desafio é utilizar Arduino e sensores em experimentos de Química.
 <!--
 **ArduQuim/Arduquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
